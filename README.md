@@ -4,6 +4,24 @@
 
 En el siguiente proyecto, el objetivo principal es realizar un análisis basado en datos públicos obtenidos del Observatorio de Movilidad y Seguridad Vial de la Ciudad de Buenos Aires (OMSV). Estos datos contienen información sobre homicidios en siniestros viales que ocurrieron en la Ciudad de Buenos Aires durante el período 2016-2021.
 
+Para llevar a cabo este proyecto, se utilizaron las siguientes tecnologías y herramientas:
+
+**Lenguaje de Programación:** Python
+**Editor de Código:** Visual Studio Code
+**Librerías Python:**
++ Pandas
++ Numpy
++ Seaborn
++ Matplotlib
+
+**Dashboard:**
+
+**Herramienta:** Power BI
+**Habilidades Aplicadas:**
++ Creación de diversos gráficos interactivos para el análisis de datos históricos.
++ Programación en lenguaje DAX para la creación de medidas que se emplearán en tarjetas de indicadores clave de rendimiento (KPIs).
++ Diseño interactivo del tablero, siguiendo un patrón Z, que hace un uso efectivo de colores, formas y tamaños.
+
 El desarrollo del proyecto seguirá los siguientes pasos:
 
 ***1. Descripción del Problema*:** En esta sección, proporcionaremos una descripción detallada del problema que estamos abordando.
