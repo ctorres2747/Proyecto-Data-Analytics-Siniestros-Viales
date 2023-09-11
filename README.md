@@ -8,7 +8,7 @@ El desarrollo del proyecto seguirá los siguientes pasos:
 
 ***1. Descripción del Problema*:** En esta sección, proporcionaremos una descripción detallada del problema que estamos abordando.
 
-***2. Contexto:*** Aquí, se presentará el contexto general en el que se encuentra el problema, incluyendo datos relevantes sobre la movilidad y seguridad vial en la Ciudad de Buenos Aires.
+***2. Contexto y Entregables:*** Aquí, se presentará el contexto general en el que se encuentra el problema, y tabién incluiremos los entregables de este proyecto.
 
 ***3. EDA (Exploratory Data Analysis):*** Realizaremos un análisis exploratorio de datos para comprender mejor los patrones y tendencias relacionados con los homicidios en siniestros viales.
 
@@ -21,3 +21,9 @@ El desarrollo del proyecto seguirá los siguientes pasos:
 La Organización Mundial de la Salud (OMS) define como siniestro vial a cualquier incidente de tráfico que involucre al menos un vehículo en movimiento y que tenga lugar en una vía pública o en una vía privada de acceso público, y que tenga como resultado al menos una persona herida o fallecida.
 
 Estos siniestros viales son de gran importancia tanto para las autoridades como para el público en general, ya que pueden tener consecuencias graves, incluida la pérdida de vidas humanas. Por lo tanto, es fundamental abordar este problema y trabajar en su prevención de manera efectiva. Para lograrlo, es esencial contar con estrategias respaldadas por datos sólidos que permitan a las autoridades tomar medidas precisas y efectivas para reducir al máximo la ocurrencia de estos incidentes.
+
+## Contexto y Entregables
+
+En Argentina, los accidentes de tránsito continúan siendo una grave preocupación, cobrando la vida de aproximadamente 4,000 personas cada año. A pesar de que varias provincias han logrado reducir la cantidad de siniestros viales, esta problemática aún persiste como la principal causa de muertes violentas en el país.
+
+En este proyecto, nos enfocaremos en analizar los datos específicos de la Ciudad Autónoma de Buenos Aires. Nuestro objetivo es proporcionar insights y conclusiones basados en estos datos, y además, desarrollar un dashboard interactivo que pueda ser de utilidad para las autoridades locales. Este panel permitirá un seguimiento más efectivo de los incidentes y facilitará la aplicación de estrategias enfocadas en métricas precisas, con el propósito de reducir de manera significativa estos eventos.
