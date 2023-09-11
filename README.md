@@ -17,6 +17,7 @@ Para llevar a cabo este proyecto, se utilizaron las siguientes tecnologías y he
 **Dashboard:**
 
 **Herramienta:** Power BI
+
 **Habilidades Aplicadas:**
 + Creación de diversos gráficos interactivos para el análisis de datos históricos.
 + Programación en lenguaje DAX para la creación de medidas que se emplearán en tarjetas de indicadores clave de rendimiento (KPIs).
