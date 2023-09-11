@@ -6,12 +6,12 @@ En el siguiente proyecto, el objetivo principal es realizar un análisis basado 
 
 El desarrollo del proyecto seguirá los siguientes pasos:
 
-**1. Descripción del Problema:** En esta sección, proporcionaremos una descripción detallada del problema que estamos abordando.
+***1. Descripción del Problema*:** En esta sección, proporcionaremos una descripción detallada del problema que estamos abordando.
 
-**2. Contexto:** Aquí, se presentará el contexto general en el que se encuentra el problema, incluyendo datos relevantes sobre la movilidad y seguridad vial en la Ciudad de Buenos Aires.
+***2. Contexto:*** Aquí, se presentará el contexto general en el que se encuentra el problema, incluyendo datos relevantes sobre la movilidad y seguridad vial en la Ciudad de Buenos Aires.
 
-**3. EDA (Exploratory Data Analysis):** Realizaremos un análisis exploratorio de datos para comprender mejor los patrones y tendencias relacionados con los homicidios en siniestros viales.
+***3. EDA (Exploratory Data Analysis):*** Realizaremos un análisis exploratorio de datos para comprender mejor los patrones y tendencias relacionados con los homicidios en siniestros viales.
 
-**4. Dashboard:** Crearemos un panel de control interactivo que permitirá visualizar los resultados de nuestro análisis de manera más accesible.
+***4. Dashboard:*** Crearemos un panel de control interactivo que permitirá visualizar los resultados de nuestro análisis de manera más accesible.
 
-**5. Conclusiones:** Finalmente, resumiremos las conclusiones clave que hemos obtenido a partir de nuestro análisis de datos.
+***5. Conclusiones:*** Finalmente, resumiremos las conclusiones clave que hemos obtenido a partir de nuestro análisis de datos.
