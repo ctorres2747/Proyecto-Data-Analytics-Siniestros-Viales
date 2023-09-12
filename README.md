@@ -66,7 +66,7 @@ Para abordar estas interrogantes, examinaremos los siguientes gráficos que nos 
 
 ### ¿Dónde ocurrió el evento?
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Cruce.png</span><span>)</span>
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Cruce.png)
 
 
 Según el gráfico anterior podemos ver que el 75% de los eventos ocurrieron en un cruce o intersección vial entre avenidas calles o autopistas.
