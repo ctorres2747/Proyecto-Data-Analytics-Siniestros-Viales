@@ -68,6 +68,8 @@ Para abordar estas interrogantes, examinaremos los siguientes gráficos que nos 
 
 ![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Cruce.png)
 
-![Image text]([https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Cruce.png](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_TIPO_DE_CALLE.png))
-
 Según el gráfico anterior podemos ver que el 75% de los eventos ocurrieron en un cruce o intersección vial entre avenidas, calles o autopistas.
+
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_TIPO_DE_CALLE.png)
+
+Adicionalmente, el 61% de los eventos ocurrieron sobre una Avenida
