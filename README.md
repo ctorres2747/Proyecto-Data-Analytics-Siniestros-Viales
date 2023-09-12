@@ -48,3 +48,24 @@ En Argentina, los accidentes de tránsito continúan siendo una grave preocupaci
 En este proyecto, nos enfocaremos en analizar los datos específicos de la Ciudad Autónoma de Buenos Aires. Nuestro objetivo es proporcionar insights y conclusiones basados en estos datos, y además, desarrollar un dashboard interactivo que pueda ser de utilidad para las autoridades locales. Este panel permitirá un seguimiento más efectivo de los incidentes y facilitará la aplicación de estrategias enfocadas en métricas precisas, con el propósito de reducir de manera significativa estos eventos.
 
 ## 3. EDA (Exploratory Data Analysis)
+
+En esta sección, llevaremos a cabo un análisis exploratorio de datos con el objetivo de comprender mejor la información disponible sobre los homicidios en siniestros viales en la Ciudad de Buenos Aires durante el período 2016-2021. Nuestro análisis constará de los siguientes pasos los cuales se detallan en el archivo .ipynb que se encuentra en aquí:
+
+1. Detección de Valores Faltantes
+2. Transformaciones y tratamiento de variables redundantes
+3. Tratamiento de Valores Faltantes
+4. Estadística Descriptiva
+5. Detección y Tratamiento de Valores Atípicos
+
+El análisis realizado se centrará en obtener resultados que nos permitan responder a las siguientes preguntas clave:
+
+¿Dónde ocurrió el evento?
+¿Quién fue la víctima?
+¿Quién fue el causante del evento?
+Para abordar estas interrogantes, examinaremos los siguientes gráficos que nos ayudarán a obtener las respuestas que buscamos.
+
+### ¿Dónde ocurrió el evento?
+
+https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Cruce.png
+
+Según el gráfico anterior podemos ver que el 75% de los eventos ocurrieron en un cruce o intersección vial entre avenidas calles o autopistas.
