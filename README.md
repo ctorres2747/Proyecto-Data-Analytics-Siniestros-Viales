@@ -73,3 +73,11 @@ Según el gráfico anterior podemos ver que el 75% de los eventos ocurrieron en 
 ![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_TIPO_DE_CALLE.png)
 
 Adicionalmente, el 61% de los eventos ocurrieron sobre una Avenida
+
+### ¿Quien fue la Victima?
+
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Victima.png)
+
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_sexo_victima.png)
+
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Histograma.jpg)
