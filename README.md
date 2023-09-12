@@ -78,6 +78,30 @@ Adicionalmente, el 61% de los eventos ocurrieron sobre una Avenida
 
 ![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Victima.png)
 
+El 79% de las victimas fueron actores viales en moto y peatones en primer y segundo lugar respectivamente
+
 ![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_sexo_victima.png)
 
+El 76% de las victimas fueron de género masculino.
+
 ![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Histograma.jpg)
+
+En la gráfica anterior vemos una concentración de las edades de las victimas donde el 50 % de las edades se encuentran entre 28 y 55 años de edad
+
+### ¿Quien fue el Acusado?
+
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Countplot_Acusado.png)
+
+En el gráfico anterior, podemos ver que los principales acusados fueron actores viales en Auto y vehículos de pasajeros con un 52% de eventos causados.
+
+### Conclusiones EDA
+
+Basándonos en los datos proporcionados por las gráficas y el análisis realizado, podemos llegar a las siguientes conclusiones:
+
+***Ubicación de los Eventos:*** La mayoría de los eventos de siniestros viales ocurrieron en cruces o intersecciones viales, lo que sugiere que estas áreas pueden ser críticas en términos de seguridad vial. Además, un porcentaje significativo de eventos ocurrió en avenidas, lo que podría indicar la importancia de abordar la seguridad en estas vías específicas.
+
+***Perfiles de las Víctimas:*** Las principales víctimas de siniestros viales fueron motoristas y peatones, con una notable predominancia de género masculino. La concentración de edades entre 28 y 55 años indica que este grupo demográfico está particularmente en riesgo.
+
+***Perfiles de los Acusados:*** Los actores viales en automóviles y vehículos de pasajeros fueron los principales acusados en la ocurrencia de estos eventos. Esto sugiere la necesidad de medidas específicas para mejorar la conducta y la seguridad de los conductores de estos vehículos.
+
+En resumen, estos hallazgos destacan la importancia de enfocar los esfuerzos de seguridad vial en áreas de cruce e intersecciones viales, así como en avenidas. Además, se debe prestar una atención especial a los motociclistas y peatones, y se debe concienciar a los conductores de automóviles y vehículos de pasajeros sobre la responsabilidad y el cumplimiento de las normas de tránsito. 
