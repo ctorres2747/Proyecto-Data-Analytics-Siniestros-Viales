@@ -105,3 +105,9 @@ Basándonos en los datos proporcionados por las gráficas y el análisis realiza
 ***Perfiles de los Acusados:*** Los actores viales en automóviles y vehículos de pasajeros fueron los principales acusados en la ocurrencia de estos eventos. Esto sugiere la necesidad de medidas específicas para mejorar la conducta y la seguridad de los conductores de estos vehículos.
 
 En resumen, estos hallazgos destacan la importancia de enfocar los esfuerzos de seguridad vial en áreas de cruce e intersecciones viales, así como en avenidas. Además, se debe prestar una atención especial a los motociclistas y peatones, y se debe concienciar a los conductores de automóviles y vehículos de pasajeros sobre la responsabilidad y el cumplimiento de las normas de tránsito. 
+
+## 4. Dashboard
+
+
+
+## 4. Conclusiones
