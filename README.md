@@ -110,4 +110,24 @@ En resumen, estos hallazgos destacan la importancia de enfocar los esfuerzos de 
 
 ![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Dashboard.png)
 
+En el diseño del dashboard se tuvieron en cuenta los principios de visualización de datos para captar el interés en la información y, al mismo tiempo, transmitir la información adecuada para llegar a conclusiones. Asimismo, se seleccionaron los gráficos apropiados para representar la información de manera precisa, lo que facilita la obtención de conclusiones de manera más sencilla. Las herramientas utilizadas para la creación del dashboard fueron las siguientes:
+
+1. Tarjetas de categorías con filtros para variables numéricas.
+2. Tarjetas de KPI para mostrar gráficamente el cumplimiento de los indicadores propuestos, utilizando código DAX para su formulación y cálculo.
+3. Gráfico de barras horizontales apiladas para representar dos variables categóricas junto con una variable numérica, permitiendo además filtrar por los cinco mejores resultados.
+4. Gráfico de líneas para mostrar la tendencia de una variable numérica en el tiempo.
+5. Filtros de tiempo que permiten seleccionar un rango de fechas para realizar las visualizaciones.
+6. Gráfico Treemap para representar la dimensión de una variable categórica, contando variables numéricas relacionadas.
+7. Un mapa de coordenadas geográficas para representar la ubicación de los eventos y contabilizar las víctimas que se presentan en áreas específicas.
+
+En el dashboard se abordan 3 KPI(s) que representan objetivos clave orientados a reducir las víctimas mortales en eventos viales, los cuales se describen a continuación:
+
+**Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**. Definimos la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000.
+
+**Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año en CABA, en comparación con el año anterior.** Definimos la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un período de tiempo determinado. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100.
+
+**Reducir en un 10% la cantidad total de eventos que ocurrieron en cruces viales en el último año en CABA, en comparación con el año anterior.** Definimos la cantidad total de eventos como el número absoluto total de eventos registrados que ocurrieron en cruces viales. Su fórmula es: (Número de eventos ocurridos en cruces viales del año anterior - Número de eventos ocurridos en cruces viales del año actual) / (Número de eventos ocurridos en cruces viales del año anterior) * 100.
+
+Es importante mencionar que el diseño del tablero se realizó pensando en responder las preguntas clave analizadas en el EDA anteriormente (¿Dónde ocurrió el evento? ¿Quién fue la víctima? ¿Quién fue el causante del evento?) y se agregaron otros datos y métricas importantes para completar la información.
+
 ## 5. Conclusiones
