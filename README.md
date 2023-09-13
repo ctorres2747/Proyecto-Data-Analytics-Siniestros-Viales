@@ -132,8 +132,12 @@ Es importante mencionar que el diseño del tablero se realizó pensando en respo
 
 ## 5. Conclusiones
 
-Basandonos en los análisis realizados en este estudio, podemos llegar a las siguientes concusiones:
+Basándonos en los análisis realizados en este estudio, podemos extraer las siguientes conclusiones:
 
-1. Los cruces viales con avenidas son los puntos mas críticos donde ocurren los eventos fatales cuyas victimas son principalmente motorizados y peatones siendo causados principalmente por automóviles y vehículos de pasajeros.
-2. El grupo demográfico de personas que tienen edades entre los 28 y 55 años son los principales victimas de homicidios en CABA. Dicho grupo demográfico, es más propenso a estar activo en la comunidad, lo que las hace más vulnerables a los eventos viales.
-3. Los indicadores, KPI(s) métricas y gráficos que genera el dashboard da información precisa del comportamiento de los eventos a lo largo del tiempo y muestra la situación actual en el cumplimiento de los objetivos plateados por la organización. Esta información puede utilizarse para identificar áreas donde se necesitan mejoras y tomar medidas para corregirlas.
+1. Los cruces viales con avenidas se destacan como los puntos más críticos donde ocurren los eventos fatales, y las víctimas principales son principalmente motoristas y peatones. Estos eventos son mayoritariamente causados por automóviles y vehículos de pasajeros.
+
+2. El grupo demográfico compuesto por personas de edades comprendidas entre los 28 y 55 años representa la mayoría de las víctimas de homicidios en CABA en eventos viales.
+
+3. Los indicadores, KPIs, métricas y gráficos generados por el dashboard proporcionan información precisa sobre el comportamiento de los eventos a lo largo del tiempo y ofrecen una visión clara de la situación actual en cuanto al cumplimiento de los objetivos establecidos por la organización.
+
+Estas conclusiones son fundamentales para la toma de decisiones informadas y la formulación de estrategias efectivas para mejorar la seguridad vial en la Ciudad de Buenos Aires.
