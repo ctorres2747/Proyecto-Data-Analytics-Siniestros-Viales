@@ -108,6 +108,6 @@ En resumen, estos hallazgos destacan la importancia de enfocar los esfuerzos de 
 
 ## 4. Dashboard
 
-
+![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Dashboard.png)
 
 ## 5. Conclusiones
