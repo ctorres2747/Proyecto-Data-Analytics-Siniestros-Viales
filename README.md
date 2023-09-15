@@ -108,7 +108,7 @@ En resumen, estos hallazgos destacan la importancia de enfocar los esfuerzos de 
 
 ## 4. Dashboard
 
-![Image text](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/blob/main/Imagenes/Dashboard.png)
+![Dashboard](https://github.com/ctorres2747/Proyecto-Data-Analytics-Siniestros-Viales/assets/132381850/81ab77af-5acd-43a5-aa33-3ea2b6fab7fb)
 
 En el diseño del dashboard se tuvieron en cuenta los principios de visualización de datos para captar el interés en la información y, al mismo tiempo, transmitir la información adecuada para llegar a conclusiones. Asimismo, se seleccionaron los gráficos apropiados para representar la información de manera precisa, lo que facilita la obtención de conclusiones de manera más sencilla. Las herramientas utilizadas para la creación del dashboard fueron las siguientes:
 
